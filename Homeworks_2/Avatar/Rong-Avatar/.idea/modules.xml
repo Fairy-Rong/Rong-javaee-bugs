@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework2.iml" filepath="$PROJECT_DIR$/Homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../avatar-generator-master/avatar-generator/avatar-generator.iml" filepath="$PROJECT_DIR$/../avatar-generator-master/avatar-generator/avatar-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../avatar-generator-master/avatar-generator-8bit/avatar-generator-8bit.iml" filepath="$PROJECT_DIR$/../avatar-generator-master/avatar-generator-8bit/avatar-generator-8bit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../avatar-generator-master/avatar-generator-cat/avatar-generator-cat.iml" filepath="$PROJECT_DIR$/../avatar-generator-master/avatar-generator-cat/avatar-generator-cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../avatar-generator-master/avatar-generator-parent.iml" filepath="$PROJECT_DIR$/../avatar-generator-master/avatar-generator-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../avatar-generator-master/avatar-generator-smiley/avatar-generator-smiley.iml" filepath="$PROJECT_DIR$/../avatar-generator-master/avatar-generator-smiley/avatar-generator-smiley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../avatar-generator-master/sample/sample.iml" filepath="$PROJECT_DIR$/../avatar-generator-master/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

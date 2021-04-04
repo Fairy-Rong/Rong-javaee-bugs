@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Rongrongzizuo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Rongrongzizuo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Rongrongzizuo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Rongrongzizuo:war exploded" />
+    </root>
+  </artifact>
+</component>
